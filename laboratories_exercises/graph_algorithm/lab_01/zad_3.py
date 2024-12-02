@@ -1,0 +1,3 @@
+"""
+Zaproponować algorytm wyłączania stacji
+"""
